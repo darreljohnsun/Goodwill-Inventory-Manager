@@ -1,0 +1,6 @@
+product_id,name,category,price,stock,image_url
+1,Blue Hoodie,Clothing,29.99,10,https://via.placeholder.com/100
+2,Red Sneakers,Footwear,49.99,5,https://via.placeholder.com/100
+3,Vintage Coffee Mug,Home Goods,9.99,20,https://via.placeholder.com/100
+4,Leather Belt,Accessories,14.99,15,https://via.placeholder.com/100
+5,Used Laptop,Electronics,199.99,3,https://via.placeholder.com/100
